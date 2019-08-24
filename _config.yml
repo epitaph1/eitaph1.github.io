@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+<!DOCTYPE html>
+<html>
+<title>About Me</title>
+<body>
+
+<h1 style="font-size:30px;">About Me</h1>
+<h2>Welcome to my website!<h2>
+<hr>
+
+<p>Jaymehn Rita is a 16-year old boy born on Oahu.<br>He moved around for a little, living in California then traveling cross-country to live in North Carolina then South Carolina, and then back to Oahu, coming full circle.<br>He has a pretty average-sized family of 5 people counting himself.<br>Jaymehn enjoys playing video games, Dungeons and Dragons, writing, hiking, and attempting to learn how to play stringed instruments.</p>
+
+</body>
+</html>
