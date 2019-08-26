@@ -1,6 +1,16 @@
 theme: jekyll-theme-minimal
-<html>
+<html> 
+<head>
+p {
+  color: black;
+  text-align: left;
+} 
+h {
+  color: black;
+  text-alight: center;
+}
 <title>About Me</title>
+</head>
 <body>
 
 <h1 style="font-size:30px;">About Me</h1>
