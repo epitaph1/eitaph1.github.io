@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #f48169;
+    /*This is where the page's background was made*/
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -28,6 +29,8 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #000000;
+    font-family:'Helvetica';
+    /*This is where I changed the font*/
 }
 footer {
     border-top: 1px solid #d5d5d5;
